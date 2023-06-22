@@ -1,0 +1,8 @@
+C:\c#\20230622_ForestQuest\bin\Debug\20230622_ForestQuest.exe.config
+C:\c#\20230622_ForestQuest\bin\Debug\20230622_ForestQuest.exe
+C:\c#\20230622_ForestQuest\bin\Debug\20230622_ForestQuest.pdb
+C:\c#\20230622_ForestQuest\obj\Debug\20230622_ForestQuestGame.csproj.AssemblyReference.cache
+C:\c#\20230622_ForestQuest\obj\Debug\20230622_ForestQuestGame.csproj.SuggestedBindingRedirects.cache
+C:\c#\20230622_ForestQuest\obj\Debug\20230622_ForestQuestGame.csproj.CoreCompileInputs.cache
+C:\c#\20230622_ForestQuest\obj\Debug\20230622_ForestQuest.exe
+C:\c#\20230622_ForestQuest\obj\Debug\20230622_ForestQuest.pdb
